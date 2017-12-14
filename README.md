@@ -1,10 +1,7 @@
-# 自定义事件库
+# cust-event
+## one Custom-event libs ## 一款支持自定义事件的工具函数模块
 - [x] 支持es6 Commonjs模块化引入
-
-
-# 基本用法
-
-## 引入模块
+# Install
 ```js
 import cust from 'cust-event'
 ```
@@ -13,7 +10,7 @@ OR
 let cust =  require('cust-event')
 
 ```
-## 用法说明
+# Usage
 ### 绑定事件
 ```js
 cust.on('event-name',function(){
