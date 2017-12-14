@@ -2,7 +2,7 @@
  * @Author: pzzz 
  * @Date: 2017-12-13 14:18:22 
  * @Last Modified by: pzzz
- * @Last Modified time: 2017-12-13 15:42:55
+ * @Last Modified time: 2017-12-14 17:12:12
  */
 
 class CustomEvent {
@@ -69,6 +69,6 @@ class CustomEvent {
     }
 }
 
-let cust = new CustomEvent()
-export default cust
-module.exports = cust
+
+module.exports = CustomEvent
+

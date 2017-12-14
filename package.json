@@ -1,8 +1,8 @@
 {
   "name": "cust-event",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "one Custom-event libs ## 一款支持自定义事件的工具函数模块",
-  "main": "dist/event.js",
+  "main": "src/event.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
